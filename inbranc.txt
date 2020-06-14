@@ -1,1 +1,2 @@
 changing from my branch editng through remote
+changing from remote in master u know
